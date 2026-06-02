@@ -3,7 +3,7 @@
 # Overview
 DNA Alignment Analysis is a Python-based bioinformatics tool that compares two DNA sequences and evaluates their similarity.
 
-# Featuresgi
+# Features
 - Aligns and compares two DNA sequences
 - Counts the number of matches and mismatches between sequences
 - Calculates similarity percentage between sequences
